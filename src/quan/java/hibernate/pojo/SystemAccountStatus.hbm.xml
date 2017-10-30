@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="quan.java.hibernate.pojo.SystemAccountStatus" table="System_AccountStatus" schema="part01">
+        <id name="statusId">
+            <column name="statusID" sql-type="int(11)"/>
+        </id>
+        <property name="statusName">
+            <column name="statusName" sql-type="varchar(10)" length="10"/>
+        </property>
+        <property name="statusComment">
+            <column name="statusComment" sql-type="varchar(50)" length="50" not-null="true"/>
+        </property>
+        <set name="userInfosByStatusId" inverse="true">
+            <key>
+                <column name="statusID"/>
+            </key>
+            <one-to-many not-found="ignore" class="quan.java.hibernate.pojo.UserInfo"/>
+        </set>
+    </class>
+</hibernate-mapping>

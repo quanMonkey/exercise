@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="quan.java.hibernate.pojo.UserInfo" table="UserInfo" schema="part01">
+        <id name="userId">
+            <column name="userID" sql-type="varchar(50)" length="50"/>
+        </id>
+        <property name="nickName">
+            <column name="nickName" sql-type="varchar(30)" length="30" not-null="true"/>
+        </property>
+        <property name="userName">
+            <column name="userName" sql-type="varchar(30)" length="30" not-null="true"/>
+        </property>
+        <property name="tellPhone">
+            <column name="tellPhone" sql-type="varchar(15)" length="15" not-null="true"/>
+        </property>
+        <property name="address">
+            <column name="address" sql-type="varchar(50)" length="50" not-null="true"/>
+        </property>
+        <property name="sex">
+            <column name="sex" sql-type="char(1)" length="1" not-null="true"/>
+        </property>
+        <property name="age">
+            <column name="age" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="registerTime">
+            <column name="registerTime" sql-type="datetime"/>
+        </property>
+        <many-to-one name="systemAccountStatusByStatusId" class="quan.java.hibernate.pojo.SystemAccountStatus">
+            <column name="statusID"/>
+        </many-to-one>
+    </class>
+</hibernate-mapping>

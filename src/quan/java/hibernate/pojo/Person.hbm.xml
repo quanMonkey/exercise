@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="quan.java.hibernate.pojo.Person" table="person" schema="part01">
+        <id name="personId" type="java.lang.Integer" column="personID">
+           <generator class="increment"/>
+        </id>
+        <property name="personName" type="java.lang.String">
+            <column name="personName" length="50"/>
+        </property>
+        <one-to-one name="idCard" />
+    </class>
+</hibernate-mapping>

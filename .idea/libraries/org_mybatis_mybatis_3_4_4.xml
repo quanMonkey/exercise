@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.mybatis:mybatis:3.4.4" type="repository">
+    <properties maven-id="org.mybatis:mybatis:3.4.4" />
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4" recursive="false" />
+  </library>
+</component>

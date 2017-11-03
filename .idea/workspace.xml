@@ -5,183 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac37ebef-3c11-42ac-8547-6d4f5c213e7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quan/java/mybatis/resource/mybatis-config.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_9_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_mybatis_mybatis_3_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javassist-3.15.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-aop-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-aspects-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-beans-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-context-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-context-support-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-core-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-expression-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-instrument-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-jdbc-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-jms-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-messaging-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-orm-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-oxm-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-test-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/spring-tx-4.3.9.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/Base$Sub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/Base.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/InitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/Parent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/Print.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/StringBufferDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/StringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/StringDemo01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Base/TestClassLoadOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Collections/LinkHashMapDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo01/LoginServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo01/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo01/ThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo01/ThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo02/SellTicket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo02/Ticket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo03/Singleton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo03/Singleton$Holder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo03/Singleton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo03/ThreadTest$ThreadDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo03/ThreadTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo04/CommonUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo04/MyThread1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo04/MyThread2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo04/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo04/Task.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo05/MyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo05/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo05/Services.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo06/SynchronizedTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo07/MyThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo07/MyThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo07/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo07/Services.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo08/MyThreadA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo08/MyThreadB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo08/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo08/Service.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/Add.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/Subtract.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/ThreadAdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/ThreadSubtract.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Demo09/ValueObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/MyThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread04.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread05.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread06.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01$MyThread07.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/Thread/ThreadDemo01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/concurrent/ConcurrentDemo001.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/demo/HibernateDemo01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/demo/HibernateUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/AccountInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/AccountInfo.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/IdCard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/IdCard.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/LoginRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/LoginRecord.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/Person.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/SystemAccountStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/SystemAccountStatus.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/UserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/hibernate/pojo/UserInfo.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/mybatis/MyBatisDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/quan/java/struts2/ActionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springDemo/struts.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/Base.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/InitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/StringBufferDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/StringDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/StringDemo01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Base/TestClassLoadOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Collections/LinkHashMapDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo01/LoginServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo01/TestThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo01/ThreadA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo01/ThreadB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo02/SellTicket.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo03/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo03/ThreadTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo04/CommonUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo04/MyThread1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo04/MyThread2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo04/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo04/Task.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo05/MyThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo05/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo05/Services.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo06/SynchronizedTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo07/MyThreadA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo07/MyThreadB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo07/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo07/Services.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo08/MyThreadA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo08/MyThreadB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo08/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo08/Service.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/Add.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/Subtract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/ThreadAdd.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/ThreadSubtract.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Demo09/ValueObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/Run.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/Thread/ThreadDemo01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/concurrent/ConcurrentDemo001.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/demo/HibernateDemo01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/demo/HibernateUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/AccountInfo.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/AccountInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/IdCard.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/IdCard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/LoginRecord.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/LoginRecord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/Person.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/SystemAccountStatus.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/SystemAccountStatus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/UserInfo.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/hibernate/pojo/UserInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/mybatis/MyBatisDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/quan/java/struts2/ActionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springDemo.iml" afterPath="$PROJECT_DIR$/springDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -267,11 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HibernateDemo01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HibernateDemo01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quan/java/hibernate/demo/HibernateDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="357">
+              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -279,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="175" column="6" lean-forward="false" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
+            <state relative-caret-position="270">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1114,12 +939,12 @@
       <workItem from="1509111211389" duration="5000" />
       <workItem from="1509113410615" duration="10000" />
       <workItem from="1509368150592" duration="116000" />
-      <workItem from="1509368917875" duration="14493000" />
+      <workItem from="1509368917875" duration="14966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143648000" />
+    <option name="totallyTimeSpent" value="144121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -1760,14 +1585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="175" column="6" lean-forward="false" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quan/java/Thread/Demo06/SynchronizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1789,11 +1606,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quan/java/hibernate/demo/HibernateDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="357">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

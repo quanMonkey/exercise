@@ -22,5 +22,8 @@
 
     <mapping class="quan.java.hibernate.pojo.Degree" />
     <mapping class="quan.java.hibernate.pojo.Employee" />
+
+    <mapping resource="quan/java/hibernate/pojo/Street.hbm.xml"/>
+    <mapping resource="quan/java/hibernate/pojo/House.hbm.xml"/>
   </session-factory>
 </hibernate-configuration>

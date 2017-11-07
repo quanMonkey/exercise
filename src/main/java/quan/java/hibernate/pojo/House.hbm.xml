@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="quan.java.hibernate.pojo.House" table="house" schema="part01">
+		<id name="houseId" column="houseId" type="java.lang.Long">
+			<generator class="identity"></generator>
+		</id>
+		
+		<property name="area" type="java.lang.Double">
+			<column name="area" not-null="true" ></column>
+		</property>
+		
+		<property name="apartmentLayout" not-null="true" type="java.lang.String" >
+			<column name="apartmentLayout" length="50"></column>
+		</property>
+		
+		<!-- 一对一单向外键关联 
+			column指定house表中的外键列的列名为streetId
+		-->
+		<many-to-one name="street" column="streetId" 
+			class="quan.java.hibernate.pojo.Street" 
+			unique="true" cascade="save-update">
+		</many-to-one>
+		
+		
+		
+	
+	</class>
+
+</hibernate-mapping>

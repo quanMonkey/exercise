@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="quan.java.hibernate.pojo.Street" table="street" schema="part01">
+		<id name="streetId" column="streetId">
+			<generator class="identity"></generator>
+		</id>
+		
+		<property name="region" type="java.lang.String">
+			<column name="region" not-null="true"></column>
+		</property>
+		
+		<property name="streetName" type="java.lang.String">
+			<column name="streetName" not-null="true"></column>
+		</property>
+		
+		<!-- 
+		配置一对一关联，无外键表的配置方式，下面两种方式相同 ，其中property-ref的值House.java中的street属性
+		此处lazy只能为false proxy no-proxy
+		 lazy=false fetch=join  一条语句 left out join
+		 lazy=false fetch=select 两条语句 分开查询
+		-->
+		<!-- <one-to-one name="house" class="quan.java.hibernate.pojo.House" cascade="all"></one-to-one> -->
+		<one-to-one name="house" property-ref="street" cascade="all" lazy="no-proxy" fetch="select"></one-to-one>
+		
+	</class>
+</hibernate-mapping>
